@@ -48,4 +48,5 @@ final class B implements ActionListener {
       JOptionPane.showMessageDialog(frame, str, "Info", JOptionPane.INFORMATION_MESSAGE);
     }
   }
+
 }

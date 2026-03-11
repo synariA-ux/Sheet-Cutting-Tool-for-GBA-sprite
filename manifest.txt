@@ -1,0 +1,2 @@
+Main-Class: src.ui
+Class-Path: flatlaf-3.7.1.jar
